@@ -3,7 +3,7 @@
 # Data Types Practice
 
 This homework assignment will give you the opportunity to practice working with
-the fundamentals of JavaScript covered in class.
+the fundamentals of JavaScript covered in the prework.
 
 ## Prerequisites
 
